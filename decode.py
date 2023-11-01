@@ -1,5 +1,4 @@
 #added from first account
-#edited to get a commit from first acc
 
 def decode(coded):
     li = list(coded)
