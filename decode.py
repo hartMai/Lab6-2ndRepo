@@ -1,4 +1,5 @@
 #added from first account
+#2nd try
 
 def decode(coded):
     li = list(coded)
